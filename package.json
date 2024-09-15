@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://uri1709.github.io/my-app-deploy/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
